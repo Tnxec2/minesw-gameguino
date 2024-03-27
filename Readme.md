@@ -1,5 +1,6 @@
 # Minesweeper Gamebuino Classic Game
-![](assets/mines.gif)
+
+![Minesweeper](assets/mines.gif)
 
 ## Description
 A minesweeper game for Gamebuino Classic platform.
