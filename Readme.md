@@ -2,7 +2,6 @@
 
 ![Minesweeper](assets/mines.gif)
 
-![test](https://github.com/Tnxec2/minesw-gameguino/blob/master/assets/mines.gif?raw=true)
 
 ## Description
 A minesweeper game for Gamebuino Classic platform.
